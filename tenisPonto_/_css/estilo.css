@@ -1,0 +1,31 @@
+hr {
+    height: 2px !important;
+    border-width: 0;
+    color: black;
+    background-color: black;
+    opacity: 1;
+}
+.container-fluid {
+    width: 50%;
+}
+
+.dropdown {
+    width: 100px;
+}
+
+.carousel-control-next-icon, .carousel-control-prev-icon {
+    background-color: black;
+}
+
+.carousel-control-next, .carousel-control-prev {
+    opacity: .5;
+}
+
+.card {
+    min-width: 200px !important;
+}
+
+#rodape {
+    height: 20px;
+    text-align: center;
+}
